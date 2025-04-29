@@ -23,5 +23,17 @@ function getHumanChoice(){
     let prediction = prompt("Rock, paper, scissors?: ");
 
     return prediction;
+
+}
+
+function humanScore(){
+
+    let humScore = 0;
+
+}
+
+function computerScore(){
+
+    let pcScore = 0;
     
 }

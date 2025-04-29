@@ -17,3 +17,11 @@ function getComputerChoice(){
         return "scissors";
     }
 }
+
+function getHumanChoice(){
+
+    let prediction = prompt("Rock, paper, scissors?: ");
+
+    return prediction;
+    
+}
